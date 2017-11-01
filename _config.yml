@@ -1,10 +1,10 @@
 # Site settings
 title: codingframer
-SEOTitle: codingframer的博客 | BY codingframer
+SEOTitle: codingframer的博客 | codingframer
 header-img: img/post-bg-desk.jpg
 email: codingframer@gmail.com
-description: "Every failure is leading towards success."
-keyword: "codingframer, 码农, 李清振, blog, 博客, liqingzhen, java, React, github.io"
+description: "Every boring hour in life is unique.<br/>生命中  再无聊的日子也都是限量版"
+keyword: "codingframer, 伪全栈工程师, 码农, 李清振, blog, 博客, liqingzhen, java, React, github.io"
 url: "http://codingframer.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/codingframer/codingframer.github.io.git" # you code repository
