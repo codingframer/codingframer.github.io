@@ -81,21 +81,3 @@ SET NEW.id = nextval('global');
 END$$
 DELIMITER ;  
 ```
-
-```sql
-/*触发器*/
-DELIMITER $$
-CREATE TRIGGER `tri_e_distribution_line_id` BEFORE INSERT ON `e_distribution_line` FOR EACH ROW BEGIN  
-SET NEW.id = nextval('global');
-END$$
-DELIMITER ;  
-```
-
-```sql
-/*触发器*/
-DELIMITER $$
-CREATE TRIGGER `tri_e_tower_id` BEFORE INSERT ON `e_tower` FOR EACH ROW BEGIN  
-SET NEW.id = nextval('global');
-END$$
-DELIMITER ;  
-```
